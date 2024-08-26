@@ -1,4 +1,4 @@
-# Webflow template - Refokus
+# Webflow template
 
 `jQuery` is already installed and declared as an external dependency.
 
